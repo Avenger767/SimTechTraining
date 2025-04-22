@@ -1,0 +1,1 @@
+export default function InterfaceQuizPage() { return <div>Interface Quiz Page</div>; }

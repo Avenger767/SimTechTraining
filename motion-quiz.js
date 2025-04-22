@@ -1,0 +1,1 @@
+export default function MotionQuizPage() { return <div>Motion Quiz Page</div>; }
